@@ -27,15 +27,19 @@ A total of **18 models** were trained for this research:
 ## 1. Data Length Analysis
 - **6 models** (3 for the S&P 500 and 3 for the FTSE 100)
 - Each group trained with different historical data lengths: **20 years**, **10 years**, and **5 years**.
--  [Data Length](https://github.com/alfonsoguerrero2/dissertation/tree/main/Data_lenght)
+-  [Data Length](https://github.com/alfonsoguerrero2/dissertation/tree/main/Data_lenght)  will have 2 folders, for S&P500 and the FTSE100, inside of each folder you can find the Jupyther notebooks.
 
 ## 2. PCA-Optimized Feature Space
 - **6 models** (3 for the S&P 500 and 3 for the FTSE 100)
-- Each group trained on datasets reduced with PCA, retaining **95%**, **97%**, and **99%** of the original variance.
--  [PCA](https://github.com/alfonsoguerrero2/dissertation/tree/main/pca)
+- Each group trained on datasets reduced with PCA, retaining **95%**, **97%**, and **99%** of the original variance. 
+-  [PCA](https://github.com/alfonsoguerrero2/dissertation/tree/main/pca)   will have 2 folders, for S&P500 and the FTSE100, inside of each folder you can find the Jupyther notebooks.
   
 ## 3. RFE-Optimized Feature Space
 - **6 models** (3 for the S&P 500 and 3 for the FTSE 100)
 - Each group trained on datasets optimized using RFE, selecting **13**, **10**, and **7** key features.
-- [RFE](https://github.com/alfonsoguerrero2/dissertation/tree/main/rfe)
+- [RFE](https://github.com/alfonsoguerrero2/dissertation/tree/main/rfe)   will have 2 folders, for S&P500 and the FTSE100, inside of each folder you can find the Jupyther notebooks.
+
 ---
+
+
+
