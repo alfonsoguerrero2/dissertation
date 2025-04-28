@@ -27,13 +27,15 @@ A total of **18 models** were trained for this research:
 ## 1. Data Length Analysis
 - **6 models** (3 for the S&P 500 and 3 for the FTSE 100)
 - Each group trained with different historical data lengths: **20 years**, **10 years**, and **5 years**.
+-  [Models available here](https://github.com/alfonsoguerrero2/dissertation/tree/main/Data_lenght)
 
 ## 2. PCA-Optimized Feature Space
 - **6 models** (3 for the S&P 500 and 3 for the FTSE 100)
 - Each group trained on datasets reduced with PCA, retaining **95%**, **97%**, and **99%** of the original variance.
-
+-  [Models available here](https://github.com/alfonsoguerrero2/dissertation/tree/main/pca)
+  
 ## 3. RFE-Optimized Feature Space
 - **6 models** (3 for the S&P 500 and 3 for the FTSE 100)
 - Each group trained on datasets optimized using RFE, selecting **13**, **10**, and **7** key features.
-
+- [Models available here](https://github.com/alfonsoguerrero2/dissertation/tree/main/rfe)
 ---
