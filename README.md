@@ -40,6 +40,14 @@ A total of **18 models** were trained for this research:
 - [RFE](https://github.com/alfonsoguerrero2/dissertation/tree/main/rfe)   will have 2 folders, for S&P500 and the FTSE100, inside of each folder you can find the Jupyther notebooks.
 
 ---
+# Results
 
+## Summary Table
+- [table of results here](https://github.com/alfonsoguerrero2/dissertation/blob/main/results.xlsx)  its a excel file, requires to download to access it
+
+## Visual Results
+- [visual results ](https://github.com/alfonsoguerrero2/dissertation/tree/main/visual_results) View predicted closing prices and strategy simulation returns over time
+
+---
 
 
