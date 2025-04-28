@@ -27,16 +27,13 @@ A total of **18 models** were trained for this research:
 ## 1. Data Length Analysis
 - **6 models** (3 for the S&P 500 and 3 for the FTSE 100)
 - Each group trained with different historical data lengths: **20 years**, **10 years**, and **5 years**.
-- **Goal**: Investigate how the amount of historical data impacts LSTM forecasting performance.
 
 ## 2. PCA-Optimized Feature Space
 - **6 models** (3 for the S&P 500 and 3 for the FTSE 100)
 - Each group trained on datasets reduced with PCA, retaining **95%**, **97%**, and **99%** of the original variance.
-- **Goal**: Evaluate how dimensionality reduction via PCA affects model performance.
 
 ## 3. RFE-Optimized Feature Space
 - **6 models** (3 for the S&P 500 and 3 for the FTSE 100)
 - Each group trained on datasets optimized using RFE, selecting **13**, **10**, and **7** key features.
-- **Goal**: Assess how recursive feature selection impacts forecasting accuracy.
 
 ---
